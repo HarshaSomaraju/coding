@@ -1,3 +1,4 @@
+<pre>
 Newton's coding challenge January 2022 - Xor Zero (Public Contest: January 2022)
 
 Xor Zero (Public Contest: January 2022)
@@ -36,3 +37,6 @@ Sample Output:
 -1
 1 2 3
 2 4 6
+</pre>
+
+## [Solution](xor%20zero.py)

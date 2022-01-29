@@ -1,3 +1,4 @@
+<pre>
 Newton's coding challenge January 2022 - Smallest string
 
 standard input/output: 2s/128000 kB
@@ -25,3 +26,6 @@ Sample Input:
 Sample Output:
 -1
 aba
+</pre>
+
+## [Solution](smallest%20string.py) 
